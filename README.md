@@ -1,6 +1,6 @@
 #  Natural Language to Python Code Generator
 
-Turn plain English instructions into executable Python code using custom AI — trained by you!  
+Turn plain English instructions into executable Python code using custom AI — trained by me!  
 No pre-trained LLMs involved. It's a lightweight, educational NLP-based code generation tool built with 🐍 Python and 🌐 Streamlit.
 
 ---
