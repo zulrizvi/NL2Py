@@ -32,7 +32,7 @@ if st.button("Generate Code"):
 
 # Show the code if it's already generated
 if st.session_state.full_code:
-    st.balloons()
+    # st.balloons()
     st.subheader("🧠 Generated Code:")
     st.code(st.session_state.full_code, language="python")
 
