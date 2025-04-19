@@ -1,0 +1,251 @@
+sentence,intent
+set x to 5,assign
+assign 10 to counter,assign
+assign the value 42 to total,assign
+make result equal to 100,assign
+store 7 in sum,assign
+please set amount to 25,assign
+can you assign 50 to variable,assign
+change score to 15,assign
+update count with 3,assign
+set the value of max to 99,assign
+put 0 into min,assign
+initialize index as 1,assign
+modify temp to be 30,assign
+assign value 8 into position,assign
+insert 12 in array,assign
+use 40 for limit,assign
+let i be 6,assign
+give total a value of 75,assign
+change the current value of counter to 22,assign
+make sure variable holds 64,assign
+force x to equal 31,assign
+set up y with 18,assign
+create z and assign 55,assign
+bind name to "John",assign
+set initial value of counter to 1,assign
+let the value of result be 44,assign
+name variable as "test",assign
+put the number 77 in total,assign
+let sum equal 88,assign
+assign a number 19 to index,assign
+apply value 26 to offset,assign
+update the variable count with 2,assign
+change variable max to 200,assign
+write 15 into position,assign
+adjust temperature to be 72,assign
+reassign 9 to value,assign
+move 33 into storage,assign
+apply the value 29 to variable,assign
+x should be set to 11,assign
+store the number 4 in counter,assign
+keep 17 in memory,assign
+fill buffer with 80,assign
+lock 23 into position,assign
+record 100 in database,assign
+copy 55 to clipboard,assign
+allocate 120 to memory,assign
+assign constant 3.14 to PI,assign
+let array store 45,assign
+total equals 99,assign
+remember 67 as count,assign
+print x,print
+display counter,print
+show result,print
+output score,print
+please print total,print
+can you print value,print
+display the value of sum,print
+show me the value of counter,print
+write message to output,print
+output the value of variable,print
+print out result,print
+log error,print
+show what's in memory,print
+reveal password,print
+tell me the value of count,print
+print the content of array,print
+emit signal,print
+render text,print
+output the content of buffer,print
+please show balance,print
+write out message,print
+display content of file,print
+give the value of position,print
+echo command,print
+just print status,print
+dump memory to screen,print
+give me result,print
+present data,print
+say hello,print
+show the result of calculation,print
+let me see total,print
+emit value of sensor,print
+tell answer,print
+reveal the content in message,print
+let output be result,print
+show user the value of score,print
+can we see progress,print
+respond with greeting,print
+announce winner,print
+write value of counter,print
+share information,print
+dump data,print
+log value in system,print
+give feedback as score,print
+write down notes,print
+present value total,print
+publish article,print
+return result,print
+send message to output,print
+expose details,print
+loop from 1 to 10,loop
+repeat from 0 to 100,loop
+iterate from 5 to 25,loop
+run a loop from 3 to 15,loop
+create a loop from 1 to 20,loop
+loop starting at 0 and ending at 50,loop
+run loop between 10 and 20,loop
+repeat numbers 1 through 5,loop
+for each number from 0 to 9,loop
+iterate numbers from 5 to 15,loop
+start loop at 2 and stop at 12,loop
+go from 7 to 14,loop
+cycle through 3 to 8,loop
+make a loop from 1 to 100,loop
+do a loop from 0 to 10,loop
+step through 5 to 50,loop
+run from 1 to 6 in a loop,loop
+go over range 10 to 30,loop
+keep looping from 0 to 5,loop
+begin loop at 3 to 13,loop
+for all numbers between 1 and 11,loop
+for numbers 0 to 9,loop
+run over values from 5 to 15,loop
+cover the range 1 to 50,loop
+use for loop from 0 to 20,loop
+start a for loop 1 to 10,loop
+iterate through range 5 to 25,loop
+loop using numbers 2 to 12,loop
+generate loop from 1 to 5,loop
+keep iterating 0 to 10,loop
+execute loop from 3 to 13,loop
+"start at 1, go until 11",loop
+for each index from 0 to 9,loop
+run each number from 5 to 15,loop
+move from 10 to 20,loop
+walk through 1 to 100,loop
+process range 0 to 10,loop
+run from start 5 to 15,loop
+perform loop over 1 to 10,loop
+count from 0 to 9,loop
+do iteration from 2 to 7,loop
+scan through 1 to 10,loop
+loop going 3 to 8,loop
+progress through 0 to 100,loop
+climb from 1 to 10,loop
+generate numbers from 5 to 25,loop
+step values from 0 to 10,loop
+run all values 1 to 20,loop
+move through 5 to 15,loop
+index from 0 to 9,loop
+take input in name,input
+get input and store in age,input
+ask for input and save to email,input
+prompt the user and assign to answer,input
+please take input into response,input
+read a value into amount,input
+request input and store in choice,input
+get user input and put it in selection,input
+save the user input in text,input
+input a value into number,input
+read user response into reply,input
+take user value and assign to option,input
+capture input in message,input
+collect a value in score,input
+ask user for feedback,input
+accept input into address,input
+assign input to username,input
+take a response and store it in comment,input
+data gets user input,input
+receive input into password,input
+prompt for a value and save to quantity,input
+set preference from user input,input
+wait for user to enter code,input
+input should go into field,input
+gather value for rating,input
+insert input into form,input
+populate name from input,input
+put user's response into answer,input
+store what the user enters into variable,input
+get a number from the user in count,input
+ask for user input into email,input
+collect text into message,input
+enter value into box,input
+user will type into field,input
+input gets saved in response,input
+request a value for amount,input
+query the user for information,input
+retrieve input and keep in variable,input
+load input into memory,input
+obtain value into result,input
+fetch input into data,input
+take answer and keep it in variable,input
+store answer in response,input
+hold the input in buffer,input
+lock user's input into field,input
+store keyboard value in key,input
+read console into command,input
+wait for user and save in response,input
+pull input into variable,input
+take standard input into buffer,input
+if x is equal to 5,condition
+check if counter is 10,condition
+if total equals 0,condition
+when score is 100,condition
+condition: result equals 50,condition
+if the value of sum is 25,condition
+check whether count is equal to 3,condition
+if variable matches 7,condition
+verify if number equals 9,condition
+evaluate whether value is 15,condition
+if age == 18,condition
+test if temperature equals 32,condition
+if amount is the same as 100,condition
+compare price to 99,condition
+check if value in total is 10,condition
+if status happens to be "completed",condition
+when the value of counter is 0,condition
+when level equals 1,condition
+is score equal to 100,condition
+does quantity equal 5,condition
+match code with "abc123",condition
+if value inside variable equals 42,condition
+verify count == 3,condition
+condition if balance == 0,condition
+check if array holds 10,condition
+when value of index is 5,condition
+if result turns out to be 7,condition
+does the value in count equal 1,condition
+make sure password equals "secure",condition
+if temperature is not different from 35,condition
+condition to see if status is "ready",condition
+if amount is exactly 50,condition
+check equality between x and 12,condition
+if total evaluates to 100,condition
+test whether input matches "yes",condition
+conditional check if age equals 21,condition
+if count and 5 are equal,condition
+if both x and 10 match,condition
+see if response is equal to "confirmed",condition
+inspect if quantity == 0,condition
+validate if username is equal to "admin",condition
+if you find that status is "pending",condition
+evaluate if score is like 90,condition
+decide based on temperature == 30,condition
+trigger if counter equals 100,condition
+execute if value == 1,condition
+do something if total equals 1000,condition
+conditional execution if flag is true,condition
+perform check: status == "success",condition
+if condition level equals 10 is true,condition
